@@ -18,7 +18,7 @@ This project analyzes the impact of COVID-19 on the viewership of major American
 ### Platform:
 - The project was developed and run on **MacOS** but should be compatible with **Windows** and **Linux** systems as well.
 
-## Folder Structure
+## Map of Repository Structure
 ```plaintext
 ├── README.md               # This file
 ├── LICENSE.md              # License file (MIT License)
