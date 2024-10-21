@@ -6,7 +6,9 @@ This project analyzes the impact of COVID-19 on the viewership of major American
 ## Software and Platform
 
 ### Software:
-- **Python 3.x**: Used for data analysis and model implementation.
+- **Python 3.8 or higher**
+
+### Required Packages
 - **Pandas**: For data manipulation.
 - **Numpy**: For numerical computations.
 - **Matplotlib**/**Seaborn**: For creating visualizations.
