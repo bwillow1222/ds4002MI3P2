@@ -41,7 +41,10 @@ This project analyzes the impact of COVID-19 on the viewership of major American
 │   │   ├── NFLplot.png      # Plotted NFL championship data with model and forecast
 │   │   ├── NBAplot.png      # Plotted NBA championship data with model and forecast
 │   │   ├── MLBplot.png      # Plotted MLB championship data with model and forecast
-└──  -  └── NHLplot.png      # Plotted NHL championship data with model and forecast
+│   │   ├── NHLplot.png      # Plotted NHL championship data with model and forecast
+│   │   ├── sportsViewership.png   # Histograms of viewership across sports
+└──  -  └── yearFrequency.png      # Stacked bar chart of entries per year by sport
+
 ```
 ## Instructions for Reproducing Results
 
