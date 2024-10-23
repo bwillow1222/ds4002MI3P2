@@ -24,8 +24,8 @@ This project analyzes the impact of COVID-19 on the viewership of major American
 ├── LICENSE.md              # License file (MIT License)
 ├── SCRIPTS/                # Contains all the Python scripts
 │   ├── DataVisualizations.ipynb    # Script for data frequencies, distributions, and statistics
-│   ├── Preprocess.ipynb    # Script for data cleaning and preprocessing
-│   ├── ViewershipModeling.ipynb  # Script for fitting the double exponential smoothing model
+│   ├── Preprocess.ipynb            # Script for data cleaning and preprocessing
+│   ├── ViewershipModeling.ipynb    # Script for fitting the double exponential smoothing model
 ├── DATA/                   # Contains datasets used in the project
 │   ├── NFL.csv      # Imported NFL championship viewership data
 │   ├── NBA.csv      # Imported NBA championship viewership data
