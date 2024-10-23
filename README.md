@@ -25,6 +25,7 @@ This project analyzes the impact of COVID-19 on the viewership of major American
 ├── SCRIPTS/                # Contains all the Python scripts
 │   ├── DataVisualizations.ipynb    # Script for data frequencies, distributions, and statistics
 │   ├── Preprocess.ipynb            # Script for data cleaning and preprocessing
+│   ├── ResidualsPlot.ipynb            # Script for creating the double exponential smoothing residuals plot
 │   ├── ViewershipModeling.ipynb    # Script for fitting the double exponential smoothing model
 ├── DATA/                   # Contains datasets used in the project
 │   ├── NFL.csv      # Imported NFL championship viewership data
@@ -43,6 +44,7 @@ This project analyzes the impact of COVID-19 on the viewership of major American
 │   │   ├── NBAplot.png      # Plotted NBA championship data with model and forecast
 │   │   ├── MLBplot.png      # Plotted MLB championship data with model and forecast
 │   │   ├── NHLplot.png      # Plotted NHL championship data with model and forecast
+│   │   ├── residualPlot.png      # Residual plot between actual and forecasted viewership
 │   │   ├── sportsViewership.png   # Histograms of viewership across sports
 └──  -  └── yearFrequency.png      # Stacked bar chart of entries per year by sport
 
