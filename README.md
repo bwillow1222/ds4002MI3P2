@@ -66,3 +66,6 @@ This project analyzes the impact of COVID-19 on the viewership of major American
    python SCRIPTS/ViewershipModeling.ipynb
 5. **Check the results:**
    View the visualizations and performance metrics in the `OUTPUT/` folder.
+
+## References
+Wikipedia, “Exponential Smoothing” https://en.wikipedia.org/wiki/Exponential_smoothing#Double_exponential_smoothing_(Holt_linear)
